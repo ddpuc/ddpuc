@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @ddpuc
 - 👀 I’m interested in learning new things daily and make myself more intelligent than yesterday.
 - 🌱 I’m currently learning C++, Python, Java, PHP, Laravel, Android Studio
-- 💞️ I’m looking to collaborate on ...
+- 💞️ I’m looking to collaborate on Machine Learning (ML) and other AI projects to get deeper understanding of the technology
 - 📫 How to reach me ...
 
 <!---
